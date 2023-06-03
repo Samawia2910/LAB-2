@@ -1,0 +1,14 @@
+C:\Users\It Zone\source\repos\LB\LB\bin\Debug\LB.exe.config
+C:\Users\It Zone\source\repos\LB\LB\bin\Debug\LB.exe
+C:\Users\It Zone\source\repos\LB\LB\bin\Debug\LB.pdb
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.csproj.AssemblyReference.cache
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.csproj.SuggestedBindingRedirects.cache
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.Form1.resources
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.Form2.resources
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.Form3.resources
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.Form4.resources
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.Properties.Resources.resources
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.csproj.GenerateResource.cache
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.csproj.CoreCompileInputs.cache
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.exe
+C:\Users\It Zone\source\repos\LB\LB\obj\Debug\LB.pdb
